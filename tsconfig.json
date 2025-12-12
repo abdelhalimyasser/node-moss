@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES2018",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "rootDir": "./",
+    "declaration": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strictNullChecks": true,
+    "skipLibCheck": true
+  },
+  "include": ["src/MOSS.ts"],
+  "exclude": ["node_modules"]
+}
