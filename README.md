@@ -12,6 +12,9 @@ Stop reinventing the wheel. Install the detective:
 ```bash
 npm install node-moss
 ```
+or visit <a href = "https://www.npmjs.com/package/node-moss">`https://www.npmjs.com/package/node-moss`</a>
+
+---
 
 ### ⚡ The "Sting Operation" (Quick Start)
 Here is how you catch the impostors in under 10 lines of code:
